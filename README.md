@@ -21,4 +21,5 @@
 
 ![image](https://github.com/miguelmurillo54/configurando-ambiente-de-desarrollo_2/assets/124819253/098912d6-9f53-4205-bf68-f26d6928deaa)
 
-![image](https://github.com/miguelmurillo54/configurando-ambiente-de-desarrollo_2/assets/124819253/53ea4d86-f810-4977-b7ae-7cf5c2e7723d)
+
+![image](https://github.com/miguelmurillo54/configurando-ambiente-de-desarrollo_2/assets/124819253/81ab6286-9cc6-4f79-9993-57adb979ed36)
