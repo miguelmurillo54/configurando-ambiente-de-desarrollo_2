@@ -1,6 +1,6 @@
 ============================= test session starts =============================
 platform win32 -- Python 3.11.5, pytest-7.4.0, pluggy-1.2.0
-rootdir: C:\Users\ASUS\Desktop\Construccion Software\configurando-ambiente-de-desarrollo_2\1-configuraci-n-del-ambiente-de-desarrollo-miguelmurillo54
+rootdir: C:\Users\ASUS\Desktop\ConsttruccionSoftware\configurando-ambiente-de-desarrollo_2\1-configuraci-n-del-ambiente-de-desarrollo-miguelmurillo54
 collected 7 items
 
 envcheck.py ...FFF.                                                      [100%]
@@ -24,9 +24,9 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 self = <Popen: returncode: None args: ['mvn', '--version']>
 args = 'mvn --version', executable = None, preexec_fn = None, close_fds = False
 pass_fds = (), cwd = None, env = None
-startupinfo = <subprocess.STARTUPINFO object at 0x0000017F1A85FCD0>
-creationflags = 0, shell = False, p2cread = Handle(624), p2cwrite = -1
-c2pread = 12, c2pwrite = Handle(588), errread = -1, errwrite = Handle(596)
+startupinfo = <subprocess.STARTUPINFO object at 0x000001ED5016ED90>
+creationflags = 0, shell = False, p2cread = Handle(616), p2cwrite = -1
+c2pread = 12, c2pwrite = Handle(612), errread = -1, errwrite = Handle(316)
 unused_restore_signals = True, unused_gid = None, unused_gids = None
 unused_uid = None, unused_umask = -1, unused_start_new_session = False
 unused_process_group = -1
@@ -162,9 +162,9 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 self = <Popen: returncode: None args: ['gradle', '--version']>
 args = 'gradle --version', executable = None, preexec_fn = None
 close_fds = False, pass_fds = (), cwd = None, env = None
-startupinfo = <subprocess.STARTUPINFO object at 0x0000017F1A774B50>
-creationflags = 0, shell = False, p2cread = Handle(632), p2cwrite = -1
-c2pread = 12, c2pwrite = Handle(344), errread = -1, errwrite = Handle(636)
+startupinfo = <subprocess.STARTUPINFO object at 0x000001ED501B9DD0>
+creationflags = 0, shell = False, p2cread = Handle(488), p2cwrite = -1
+c2pread = 12, c2pwrite = Handle(628), errread = -1, errwrite = Handle(596)
 unused_restore_signals = True, unused_gid = None, unused_gids = None
 unused_uid = None, unused_umask = -1, unused_start_new_session = False
 unused_process_group = -1
@@ -300,9 +300,9 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 self = <Popen: returncode: None args: ['npm', '--version']>
 args = 'npm --version', executable = None, preexec_fn = None, close_fds = False
 pass_fds = (), cwd = None, env = None
-startupinfo = <subprocess.STARTUPINFO object at 0x0000017F1A8F43D0>
-creationflags = 0, shell = False, p2cread = Handle(632), p2cwrite = -1
-c2pread = 12, c2pwrite = Handle(652), errread = -1, errwrite = Handle(648)
+startupinfo = <subprocess.STARTUPINFO object at 0x000001ED500850D0>
+creationflags = 0, shell = False, p2cread = Handle(620), p2cwrite = -1
+c2pread = 12, c2pwrite = Handle(628), errread = -1, errwrite = Handle(596)
 unused_restore_signals = True, unused_gid = None, unused_gids = None
 unused_uid = None, unused_umask = -1, unused_start_new_session = False
 unused_process_group = -1
@@ -449,4 +449,4 @@ PASSED envcheck.py::testGit
 FAILED envcheck.py::testMaven - FileNotFoundError: [WinError 2] El sistema no...
 FAILED envcheck.py::testGradle - FileNotFoundError: [WinError 2] El sistema n...
 FAILED envcheck.py::testNpm - FileNotFoundError: [WinError 2] El sistema no p...
-========================= 3 failed, 4 passed in 3.23s =========================
+========================= 3 failed, 4 passed in 5.43s =========================
