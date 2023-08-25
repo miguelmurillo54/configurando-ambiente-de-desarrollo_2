@@ -17,3 +17,7 @@
 
 ![image](https://github.com/miguelmurillo54/configurando-ambiente-de-desarrollo_2/assets/124819253/d2568026-a942-496c-a260-7f21ab461cb1)
 
+# la segunda vez que lo probe
+
+![image](https://github.com/miguelmurillo54/configurando-ambiente-de-desarrollo_2/assets/124819253/098912d6-9f53-4205-bf68-f26d6928deaa)
+
